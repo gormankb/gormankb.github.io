@@ -1,0 +1,25 @@
+name: "UAF website"
+output_dir: "."
+navbar:
+  title: "Kristen B. Gorman, PhD"
+  right:
+    - text: "About"
+      href: index.html
+    - text: "Current Research and Funding"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Teaching"
+      href: teaching.html
+  left:
+    - icon: fa-envelope fa-lg
+      href: mailto:<kbgorman@alaska.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/gormankb/
+    - icon: fa-google-scholar-square fa-lg
+      href: https://scholar.google.com/citations?user=ZK9HDzsAAAAJ&hl=en
+    - icon: fa-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Kristen-B-Gorman
+  output:
+    html_document:
+      theme: lumen
