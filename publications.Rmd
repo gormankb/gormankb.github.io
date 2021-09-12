@@ -1,7 +1,7 @@
 ---
 title: "Publications"  
 ---
-Please email me for PDF reprints
+Please email me for PDF reprints, <u>student</u> participation
 <p>&nbsp;</p>
 <font size="3">*Manuscripts in review*</font>
 
@@ -17,7 +17,7 @@ Please email me for PDF reprints
 
 <p>Knudsen, E.E., P.S. Rand, **K.B. Gorman**, D.R. Bernard, and W.D. Templin. 2021. Hatchery-origin stray rates and total run characteristics for Pink Salmon and Chum Salmon returning to Prince William Sound, Alaska in 2013-2015. *Marine and Coastal Fisheries* 13:58-85. Open access here: https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10134
 
-<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. 2020. palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. Open access here: https://allisonhorst.github.io/palmerpenguins/. Downloaded from CRAN over 100,000 times (Apr 2021)!
+<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. 2020. palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. Open access here: https://allisonhorst.github.io/palmerpenguins/. Downloaded from CRAN over 200,000 times (Sept 2021)!
 
 <p>Connors, B., M. Malick, G. T. Ruggerone, P. Rand, M. Adkison, J. R. Irvine, R. Campbell, and **K. Gorman**. 2020. Climate and competition shape sockeye salmon population dynamics across the Northeast Pacific Ocean. *Canadian Journal of Fisheries and Aquatic Sciences* 77: 943–949. Please note the subsequent correction to this article. Open access here: https://cdnsciencepub.com/doi/10.1139/cjfas-2019-0422 
 
