@@ -1,15 +1,14 @@
 ---
 title: "Publications"  
 ---
-<br>Updated 14 Sept 2021
 <br>Please email me for PDF reprints
-<br>Identifies <u>student</u> participation
+<br>Indicates <u>student</u> participation
 <p>&nbsp;</p>
-<font size="3">*Manuscripts in review*</font>
+<font size="3"><b><i>Manuscripts in review</b></i></font>
 
 <p><u>Guo, C.</u>, B. Konar, C. Walker, and **K. Gorman**. In review, Feb 2021. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II*.
 <p>&nbsp;</p>
-<font size="3">*Peer-reviewed publications and distributed R packages*</font>
+<font size="3"><b><i>Peer-reviewed publications and distributed R packages</b></i></font>
 
 <p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. In revision, Sept 2021. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal*.
 
@@ -51,3 +50,5 @@ title: "Publications"
 
 <p>**Gorman, K.B.** and T.D. Williams. 2005. Correlated evolution of maternally derived yolk testosterone and early developmental traits in passerine birds. *Biology Letters* 1(4):461-464.  
 
+<HR>
+Updated 14 September 2021
