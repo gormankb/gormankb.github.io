@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Publications"
+    - text: "Publications and Data Products"
       href: publications.html
     - text: "Current Research and Funding"
       href: research.html
@@ -16,10 +16,6 @@ navbar:
       href: mailto:<kbgorman@alaska.edu>
     - icon: fa-github fa-lg
       href: http://github.com/gormankb/
-    - icon: fa-google-scholar-square fa-lg
-      href: https://scholar.google.com/citations?user=ZK9HDzsAAAAJ&hl=en
-    - icon: fa-researchgate fa-lg
-      href: https://www.researchgate.net/profile/Kristen-B-Gorman
   output:
     html_document:
       theme: lumen
