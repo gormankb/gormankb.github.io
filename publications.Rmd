@@ -4,7 +4,7 @@ title: "Publications and Data Products"
 <br>Please email me for electronic copies of publications/reports
 <br><u>Student</u> authorship
 <p>&nbsp;</p>
-<font size="3"><b><i>Manuscripts in review</b></i></font>
+<font size="3"><b><i>Manuscripts In Review</b></i></font>
 
 <p>**Gorman, K.B.**, W.R. Fraser and T.D. Williams. Submitted, Sept 2021. Baseline corticosterone does not modulate individual variation in reproductive performance among *Pygoscelis* penguins at opposing range margins, part II. *Marine Ecology Progress Series*.
 
@@ -12,7 +12,7 @@ title: "Publications and Data Products"
 
 <p><u>Guo, C.</u>, B. Konar, C. Walker, and **K. Gorman**. In review, Feb 2021. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II*.
 <p>&nbsp;</p>
-<font size="3"><b><i>Peer-reviewed publications, R packages, and theses</b></i></font>
+<font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
 
 <p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. In revision, Sept 2021. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal*.
 
@@ -59,7 +59,7 @@ title: "Publications and Data Products"
 <p>**Gorman, K.B.** 2005. Reproductive energetics of female Greater Scaup (*Aythya marila*): nutritional and physiological correlates of timing and state of reproduction. M.Sc. Thesis. Simon Fraser University, Burnaby, British Columbia, Canada. 115 pp.
 
 <HR>
-<font size="3"><b><i>Data products</b></i></font>
+<font size="3"><b><i>Data Products</b></i></font>
 <p>**Gorman, K.B.**, K.E. Ruck, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. GitHub, https://github.com/gormankb/Gorman-et-al.-Frontiers-in-Marine-Science. Environmental Data Initiative Data Portal, https://portal.edirepository.org/nis/home.jsp. Package IDs: knb-lter-pal.223.1, knb-lter-pal.224.1, knb-lter-pal.225.1, knb-lter-pal.226.1, knb-lter-pal.227.1.
 
 <p>Knudsen, E.E., P.S. Rand, **K.B. Gorman**, D.R. Bernard, and W.D. Templin. 2020. Hatchery-origin stray rates and total run characteristics for Pink Salmon and Chum Salmon returning to Prince William Sound, Alaska in 2013-2015. Knowledge Network for Biocomplexity, https://knb.ecoinformatics.org. doi:10.5063/F1QV3JXF.
@@ -74,7 +74,7 @@ title: "Publications and Data Products"
 
 
 <HR>
-<font size="3"><b><i>Selected scientific reports</b></i></font>
+<font size="3"><b><i>Selected Scientific Reports</b></i></font>
 <p>Heintz, R.A., **K.B., Gorman**, T.C. Kline, F.F. Sewall, M.E. Roberts, and W.S. Pegau. 2020. A High Temporal and Spatial Resolution Study to Validate the Juvenile Herring Condition Monitoring Project Final Report - Herring Condition Monitoring. Prince William Sound Science Center Final Report 2020 to Exxon Valdez Oil Spill Trustee Council.
 
 <p>Pegau, W.S., D.R. Aderhold, M.A. Bishop, J. Bernard, T. Branch, **K. Gorman**, M. Groner, S. Haught, P. Hershberger, D. McGowan, P. Rand, M. Scheuerell, and J. Trochta. 2019. Herring Research and Monitoring Science Synthesis. Herring Research and Monitoring Program Report to Exxon Valdez Oil Spill Trustee Council.
