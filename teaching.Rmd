@@ -1,40 +1,36 @@
 ---
-title: "Teaching and Service"
+title: "Teaching & Service"
 ---
+<p>&nbsp;</p>
 <font size="3"><b><i>Course Instruction, University of Alaska system</b></i></font>
-
-Instructor (co-taught with Dr. Tuula Hollmen), University of Alaska Fairbanks, Fairbanks, Alaska
-Marine Bird Ecology and Conservation (MSL F410) - an undergraduate course in the College of Fisheries and Ocean Sciences. NOTE: Course currently in development (AY21-22).
-
-Temporary Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2020)
-Marine Biology (MSL F610) – a graduate course in the College of Fisheries and Ocean Sciences.
-
-Adjunct Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2019)
-Principles of Evolution (BIOL481/681) – an upper-level, required undergraduate course in the Dept. of Biology and Wildlife.
-
-Adjunct Instructor, University of Alaska Southeast, Juneau, Alaska (Jan – May 2017)
-Evolution (BIOL 482) - an undergraduate capstone course in the Dept of Biology and Marine Biology.
+<p>Instructor (co-taught with Dr. Tuula Hollmen), University of Alaska Fairbanks, Fairbanks, Alaska
+<br>Marine Bird Ecology and Conservation (MSL F410) - an undergraduate course in the College of Fisheries and Ocean Sciences.
+<br>NOTE: Course currently in development (AY21-22).
+<p>Temporary Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2020)
+<br>Marine Biology (MSL F610) – a graduate course in the College of Fisheries and Ocean Sciences.
+<p>Adjunct Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2019)
+<br>Principles of Evolution (BIOL481/681) – an upper-level, required undergraduate course in the Dept. of Biology and Wildlife.
+<p>Adjunct Instructor, University of Alaska Southeast, Juneau, Alaska (Jan – May 2017)
+<br>Evolution (BIOL 482) - an undergraduate capstone course in the Dept of Biology and Marine Biology.
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<HR>
 <font size="3"><b><i>Student Mentorship, University of Alaska Fairbanks</b></i></font>
 
-Graduate Student Committees
-Lindsey Stadler. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Katrin Iken
-Drew Porter. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Mat Wooller
-Elizabeth Hasan. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
-Brian Ulaski. PhD candidate (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
-Chris Guo. PhD graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
-Julia McMahon. MS graduate student (UAF, Fisheries, graduated 2021). Major Professor: Dr. Peter Westley
+**Graduate Student Committees**
+<br>Lindsey Stadler. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Katrin Iken
+<br>Drew Porter. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Mat Wooller
+<br>Elizabeth Hasan. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
+<br>Brian Ulaski. PhD candidate (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
+<br>Chris Guo. PhD graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
+<br>Julia McMahon. MS graduate student (UAF, Fisheries, graduated 2021). Major Professor: Dr. Peter Westley
 
-Undergraduate Student Guidance
-Nana Matsui. BS undergraduate student (UAF, Fisheries and Ocean Sciences, graduated 2021). Advisor: Dr. Lara Horstmann.
+**Undergraduate Student Guidance**
+<br>Nana Matsui. BS undergraduate student (UAF, Fisheries and Ocean Sciences, graduated 2021). Advisor: Dr. Lara Horstmann.
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<HR>
 <font size="3"><b><i>Service, University of Alaska Fairbanks and beyond</b></i></font>
 
 Institutional Animal Care and Use Committee (IACUC) member, University of Alaska Fairbanks, Fairbanks, Alaska (July 2021 - present)
-
-David Polashenski. Outside examiner for David’s Ph.D. Oral Comprehensive Exam in Geophysics (January 2021)
 
 Peer-review of manuscripts for Antarctic Science (1), Biology Letters (4), Canadian Journal of Fisheries and Aquatic Sciences (1), Deep-Sea Research II (1), Global Change Biology (1), Journal of Animal Ecology (1), Journal of Avian Biology (1), Marine Ecology Progress Series (5), Marine Ornithology (1), Physiological and Biochemical Zoology (4), Polar Biology (4), The American Naturalist (1), USGS internal review (1), Waterbirds (1).
 
