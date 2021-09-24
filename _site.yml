@@ -9,7 +9,7 @@ navbar:
       href: publications.html
     - text: "Current Research and Funding"
       href: research.html
-    - text: "Teaching"
+    - text: "Teaching and Service"
       href: teaching.html
   left:
     - icon: fa-envelope fa-lg
