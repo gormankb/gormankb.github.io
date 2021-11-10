@@ -13,36 +13,40 @@ title: "Current Research & Funding"
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <HR>
-<font size="3"><b><i>Major Funding as PI or co-PI (since 2015)</b></i></font>
-<p>Seabird Biologging at St. Paul Island, Alaska. Funded by University of Alaska Faculty Initiative Fund ($29,700, 6 mo). Nov 2021. Investigators: K.B. Gorman (lead PI, U Alaska Fairbanks), D. Causey (co-I, U Alaska Anchorage), and V. Padula (co-I, Aleut Community of St. Paul Island).
+<font size="3"><b><i>Major Funding as PI or co-I (since completing PhD)</b></i></font>
+<br><u>Active projects</u>
+<p>*Seabird Biologging at St. Paul Island, Alaska*. Funded by University of Alaska Faculty Initiative Fund ($29,700, 6 mo). Nov 2021. Investigators: **K.B. Gorman** (lead PI, U Alaska Fairbanks), D. Causey (co-I, U Alaska Anchorage), and V. Padula (co-I, Aleut Community of St. Paul Island).
 
-Examine health metrics of Copper River sockeye stocks to inform management decision making. Funded by the National Park Service (NR SCC, $308,634, 3 years). Mar 2021. Investigators: M. Miller (lead PI, WRST NPS), K.B. Gorman (lead PI, U Alaska Fairbanks), P.S. Rand (co-PI, PWSSC).
+*Ecological interactions between Pacific herring and Pacific salmon in Prince William Sound, Alaska*. Funded by Exxon Valdez Oil Spill Trustee Council ($2,136,421, 8 years). Oct 2021. Investigators: P. Rand (lead-PI, PWSSC), **K.B. Gorman** (co-I, U Alaska Fairbanks), R. Heintz (co-I, Sitka Sound Science Center), and Rob Campbell (co-I, PWSSC).
 
-Evaluating factors related to in river adult mortality in Copper River sockeye salmon. Funded by Alaska Sustainable Salmon Fund ($287,718, 2 years). Dec 2020. Investigators: P.S. Rand (lead-PI, PWSSC) and K.B. Gorman (co-PI, U Alaska Fairbanks).
+*Examine health metrics of Copper River sockeye stocks to inform management decision making*. Funded by the National Park Service (NR SCC, $308,634, 3 years). Mar 2021. Investigators: M. Miller (lead PI, WRST NPS), **K.B. Gorman** (lead PI, U Alaska Fairbanks), and P.S. Rand (co-PI, PWSSC).
 
-Are expanding Pacific salmon populations in the Arctic produced from regional watersheds? Funded by UAF’s Coastal Marine Institute (BOEM partnership, $183,332, 2.5 years). May 2020. Investigators: K.B. Gorman (lead PI, U Alaska Fairbanks), T. Linley (PNNL), T. Sformo (North Slope Borough), P. Rand (PWSSC).
+*Evaluating factors related to in river adult mortality in Copper River sockeye salmon*. Funded by Alaska Sustainable Salmon Fund ($287,718, 2 years). Dec 2020. Investigators: P.S. Rand (lead-PI, PWSSC) and **K.B. Gorman** (co-I, U Alaska Fairbanks).
 
-Using otolith geochemistry to understand the ocean ecology of a changing Alaskan salmon system. Funded by National Science Foundation ($162,010, 2 years). Dec 2019. EPSCoR RII Track-4 Research Fellows program. Investigators: K.B. Gorman (lead PI, U Alaska Fairbanks) and T. Linley (host site, PNNL).
+*Are expanding Pacific salmon populations in the Arctic produced from regional watersheds?* Funded by UAF’s Coastal Marine Institute (BOEM partnership, $183,332, 2.5 years). May 2020. Investigators: **K.B. Gorman** (lead PI, U Alaska Fairbanks), T. Linley (co-I, PNNL), T. Sformo (co-I, North Slope Borough), and P. Rand (co-I, PWSSC).
 
-One health perspectives on high latitude marine ecosystems equipment grant. Funded by Alaska INBRE special requests (NIH) ($34,520, 1 year). May 2019. Investigator: K.B. Gorman (lead PI, U Alaska Fairbanks).
+*Using otolith geochemistry to understand the ocean ecology of a changing Alaskan salmon system*. Funded by National Science Foundation ($162,010, 2 years). Dec 2019. EPSCoR RII Track-4 Research Fellows program. Investigators: **K.B. Gorman** (lead PI, U Alaska Fairbanks) and T. Linley (host site, PNNL).
 
-Effects of energetic state and infectious agents on migration by Sockeye Salmon. Funded by Alaska INBRE faculty pilot (NIH) ($98,615, 1 year) May 2019. Investigators: K.B. Gorman (lead PI, U Alaska Fairbanks), P.S. Rand (co-PI, PWSSC), and K.M. Miller (DFO Canada).
+*One health perspectives on high latitude marine ecosystems equipment grant*. Funded by Alaska INBRE special requests (NIH) ($34,520, 1 year). May 2019. Investigator: **K.B. Gorman** (lead PI, U Alaska Fairbanks).
 
-Implications of a declining trend in body size and condition on abundance of Sockeye Salmon in the Copper River, Alaska. Funded by North Pacific Research Board ($446,771, 3 years). May 2019. Additional COVID-19 funding ($44,461). Nov 2020. Investigators: P.S. Rand (lead-PI, PWSSC) and K.B. Gorman (co-PI, U Alaska Fairbanks).
+*Effects of energetic state and infectious agents on migration by Sockeye Salmon*. Funded by Alaska INBRE faculty pilot (NIH) ($98,615, 1 year) May 2019. Investigators: **K.B. Gorman** (lead PI, U Alaska Fairbanks), P.S. Rand (co-PI, PWSSC), and K.M. Miller (DFO Canada).
 
-Effects of energetic state and infectious agents on migration by Sockeye Salmon. Funded by Alaska INBRE faculty pilot (NIH) ($124,103, 1 year). Aug 2018. Investigators: K.B. Gorman (lead PI, U Alaska Fairbanks), P.S. Rand (co-PI, PWSSC), and K.M. Miller (DFO Canada).
+*Implications of a declining trend in body size and condition on abundance of Sockeye Salmon in the Copper River, Alaska*. Funded by North Pacific Research Board ($446,771, 3 years). May 2019. Additional COVID-19 funding ($44,461). Nov 2020. Investigators: P.S. Rand (lead-PI, PWSSC) and **K.B. Gorman** (co-I, U Alaska Fairbanks).
 
-Resolving the annual pelagic distribution of Tufted Puffins: Associations with oceanographic features and isotopic niche. Funded by North Pacific Research Board ($243,611, 3 years). May 2018. Additional COVID-19 funding ($19,684). Nov 2020. Investigators: K.B. Gorman (lead PI, PWSSC/UAF) and M.A. Bishop (co-PI, PWSSC).
+*Effects of energetic state and infectious agents on migration by Sockeye Salmon*. Funded by Alaska INBRE faculty pilot (NIH) ($124,103, 1 year). Aug 2018. Investigators: **K.B. Gorman** (lead PI, U Alaska Fairbanks), P.S. Rand (co-PI, PWSSC), and K.M. Miller (DFO Canada).
 
-Studies of reproductive maturity among age cohorts of Pacific herring (Clupea pallasii) in Prince William Sound, Alaska. Funded by Exxon Valdez Oil Spill Trustee Council ($779,412, 3 years). Sept 2016. Investigator: K.B. Gorman (lead PI, PWSSC).
+*Resolving the annual pelagic distribution of Tufted Puffins: Associations with oceanographic features and isotopic niche*. Funded by North Pacific Research Board ($243,611, 3 years). May 2018. Additional COVID-19 funding ($19,684). Nov 2020. Investigators: **K.B. Gorman** (lead PI, PWSSC/UAF) and M.A. Bishop (co-I, PWSSC).
 
-Comparative performance in migration and reproduction among wild and hatchery Pink Salmon (Oncorhynchus gorbuscha) in Prince William Sound, Alaska using stable isotope analysis. Funded by National Fish and Wildlife Foundation ($95,812, 1 year). Feb 2016. Investigators: K.B. Gorman (lead PI), P.S. Rand and E.E. Knudsen (PWSSC).
+*Studies of reproductive maturity among age cohorts of Pacific herring (Clupea pallasii) in Prince William Sound, Alaska*. Funded by Exxon Valdez Oil Spill Trustee Council ($465,300, 3 years). Sept 2016. Investigator: **K.B. Gorman** (lead PI, PWSSC).
 
-Hatchery-Wild Salmon Interactions, Stream Component. Funded by Alaska Department of Fish & Game, AK Hatchery Research Program. 2014 – 2018. 2014 ($560,000), 2015 ($635,000), 2016 ($452,000), 2017 ($440,000), 2018 ($493,000) for Prince William Sound stream component. Investigators: K.B. Gorman and E.E. Knudsen (PWSSC).
+<br><u>Completed projects</u>
+<p>*Comparative performance in migration and reproduction among wild and hatchery Pink Salmon (Oncorhynchus gorbuscha) in Prince William Sound*, Alaska using stable isotope analysis. Funded by National Fish and Wildlife Foundation ($95,812, 1 year). Feb 2016. Investigators: **K.B. Gorman** (lead PI), P.S. Rand and E.E. Knudsen (co-I's, PWSSC). Project completed, Sept 2017. Publication: McMahon et al. In prep. Stable isotopes suggest trophic overlap between maturing adult hatchery and wild pink salmon in Prince William Sound, Alaska. 
 
-Juvenile Herring Condition Monitoring (2012-16). Funded by Exxon Valdez Oil Spill Trustee Council ($974,100). 2014 – 2016. Investigators: K.B. Gorman (PWSSC) and R. Heintz (NOAA-ABL).
+*Hatchery-Wild Salmon Interactions, Stream Component*. Funded by Alaska Department of Fish & Game, AK Hatchery Research Program. 2014 – 2018. 2014 ($560,000), 2015 ($635,000), 2016 ($452,000), 2017 ($440,000), 2018 ($493,000) for Prince William Sound stream component. Investigators: E.E. Knudsen (lead PI, PWSSC) and **K.B. Gorman** (co-I, PWSSC). Project completed, Jun 2019. Publication: Knudsen et al. 2021. Marine and Coastal Fisheries 13:58-85.
 
-Juvenile Herring Condition Monitoring, Intensives (2012-14). Funded by Exxon Valdez Oil Spill Trustee Council ($304,700). 2014. Investigators: K.B. Gorman (PWSSC) and R. Heintz (NOAA-ABL).
+*Juvenile Herring Condition Monitoring (2012-16)*. Funded by Exxon Valdez Oil Spill Trustee Council ($974,100). Investigators: **K.B. Gorman** (lead PI from 2014-2016, PWSSC) and R. Heintz (co-PI, NOAA-ABL). Project completed, Mar 2018. Publication: Gorman et al. 2018. Deep-Sea Research II 147:116-126.
+
+*Juvenile Herring Condition Monitoring, Intensives (2012-14)*. Funded by Exxon Valdez Oil Spill Trustee Council ($304,700). Investigators: **K.B. Gorman** (lead PI 2014, PWSSC) and R. Heintz (co-PI, NOAA-ABL). Project completed, Feb 2020. Publication: Heintz et al. In prep. Influence of size on energy loss, ration size, and body composition in overwintering juvenile Pacific herring.
 
 <HR>
 Updated 10 November 2021
