@@ -22,11 +22,11 @@ author: Research Assistant Professor (she/her)
 <font size="3"><b><i>Research Overview</b></i></font>
 <p>I am a broadly trained fisheries and wildlife ecologist focused on high latitude coastal and pelagic marine ecosystems (Pacific northwest and Alaska, western Antarctic Peninsula). My research interests lie at the intersection of evolution, ecology, and physiology, thus I take integrative approaches to understanding factors that shape animal behavior (foraging, breeding, toxicology/disease, and movement ecology), fitness (including associated life history traits and trade-offs), and population dynamics (demographic rates and population structure) to advance basic knowledge and inform management and conservation actions. **The overarching goal of my work is to develop molecule to ecosystem perspectives focusing on the integrative evolutionary ecology of animal systems**, some of which are critically important for commercial fisheries and subsistence harvests. I incorporate modern, quantitative methods in my work, and strive to inspire students to develop their own quantitative and communication skills to train the next generation of conservation ecologists. I also aim to enhance the public's interest in nature and understanding of the scientific process. I am always looking for new collaborators and students to join my program, please reach out to me if you have interest in my work - a few recent papers are noted below. Thanks for stopping by!
 
+<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. Accepted, Feb 2022. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal*.
+
 <p>**Gorman, K.B.**, K.E. Ruck, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. <a href="https://doi.org/10.3389/fmars.2021.526092">*Frontiers in Marine Science* 8:526092</a>.
 
 <p>Arimitsu, M.L., J.F. Piatt, S. Hatch, R.M. Suryan, S. Batten, M.A. Bishop, R.W. Campbell, H. Coletti, D. Cushing, **K. Gorman**, R.R. Hopcroft, K.J. Kuletz, C. Marsteller, C. McKinstry, D. McGowan, J. Moran, W.S. Pegau, A. Schaefer, S. Schoen, J. Straley, and V.R. von Biela. 2021. Heatwave-induced synchrony within forage fish portfolio disrupts energy flow to top pelagic predators. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15556">*Global Change Biology* 27:1859–1878</a>.
-
-<p>Knudsen, E.E., P.S. Rand, **K.B. Gorman**, D.R. Bernard, and W.D. Templin. 2021. Hatchery-origin stray rates and total run characteristics for Pink Salmon and Chum Salmon returning to Prince William Sound, Alaska in 2013-2015. <a href="https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10134">*Marine and Coastal Fisheries* 13:58-85</a>.
 
 <HR>
 <font size="3"><b><i>Professional Appointments</b></i></font>
@@ -53,4 +53,4 @@ author: Research Assistant Professor (she/her)
 
 <HR>
 <p>© Copyright 2021, Kristen B. Gorman, PhD
-<br> Website last updated 10 November 2021
+<br> Website last updated 10 Feb 2022
