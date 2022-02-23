@@ -5,11 +5,11 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Publications & Data Products"
+    - text: "Publications"
       href: publications.html
-    - text: "Current Research & Funding"
+    - text: "Research"
       href: research.html
-    - text: "Teaching & Service"
+    - text: "Teaching"
       href: teaching.html
   left:
     - icon: fa-envelope fa-lg
