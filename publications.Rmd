@@ -4,13 +4,12 @@ title: "Publications"
 <br>Please email me for electronic copies of publications
 <br><u>Student</u> authorship
 <p>&nbsp;</p>
-<font size="3"><b><i>Manuscripts In Review</b></i></font>
 
-<p><u>Guo, C.</u>, B. Konar, C. Walker, and **K. Gorman**. In review, Feb 2021. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II*.
-<p>&nbsp;</p>
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
 
-<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. Accepted, Feb 2022. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal*.
+<p><u>Guo, C.</u>, B. Konar, C. Walker, and **K. Gorman**. Accepted, May 2022. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II*.
+
+<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. In press, Apr 2022. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal*.
 
 <p>**Gorman, K.B.**, <u>K.E. Ruck</u>, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. *Frontiers in Marine Science* 8:526092. Open access here: https://doi.org/10.3389/fmars.2021.526092
 
@@ -92,4 +91,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 10 Feb 2022
+Updated 15 May 2022
