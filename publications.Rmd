@@ -7,7 +7,7 @@ title: "Publications"
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
 
-<p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. In revision, August 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. *Frontiers in Marine Science*.
+<p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. In press, August 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. *Frontiers in Marine Science*.
 
 <p><u>Guo, C.</u>, B.H. Konar, **K.B. Gorman**, and C.M. Walker. 2022. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II* 201:105109. Open access here: https://doi.org/10.1016/j.dsr2.2022.105109
 
@@ -97,4 +97,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 14 August 2022
+Updated 19 August 2022
