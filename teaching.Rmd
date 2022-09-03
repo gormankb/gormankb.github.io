@@ -3,28 +3,35 @@ title: "Teaching"
 ---
 <p>&nbsp;</p>
 <font size="3"><b><i>Course Instruction, University of Alaska system</b></i></font>
-<p>Adjunct Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2022)
-<br>Fisheries and Ocean Sciences Seminar (MSL 492/692) - Undergraduate/graduate course at UAF in CFOS.
-<p>Instructor (co-taught with Dr. Tuula Hollmen), University of Alaska Fairbanks, Fairbanks, Alaska
-<br>Marine Bird Ecology and Conservation (MSL F410) - Undergraduate course at UAF in CFOS.
-<br>NOTE: Course currently in development (AY21-22).
-<p>Adjunct Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2020)
-<br>Marine Biology (MSL F610) – Graduate course at UAF in CFOS.
-<p>Adjunct Instructor, University of Alaska Fairbanks, Fairbanks, Alaska (Jan – May 2019)
-<br>Principles of Evolution (BIOL481/681) – Undergraduate course at UAF in Biology & Wildlife.
-<p>Adjunct Instructor, University of Alaska Southeast, Juneau, Alaska (Jan – May 2017)
-<br>Evolution (BIOL 482) - Undergraduate capstone course at UAS in Biology and Marine Biology.
+<p>Instructor (co-taught with T. Hollmen), University of Alaska Fairbanks (Jan-May 2023)
+<br>Marine Bird Ecology and Conservation (MSL F410, 3 credits) - Undergraduate course in the College of Fisheries and Ocean Sciences
+
+<p>Instructor, University of Alaska Fairbanks (Sept – Oct 2022)
+<br>Fact of Fishin': Case studies in fisheries and marine science (FISH/MSL F102, 1 credit) - Undergraduate seminar in the College of Fisheries and Ocean Sciences
+
+<p>Instructor, University of Alaska Fairbanks (Jan – May 2022)
+<br>Fisheries and Ocean Sciences Weekly Seminar (MSL 492/692, 1 credit) - Undergraduate/graduate course in the College of Fisheries and Ocean Sciences
+
+<p>Instructor, University of Alaska Fairbanks (Jan – May 2020)
+<br>Marine Biology (MSL F610, 3 credits) – Graduate course in the College of Fisheries and Ocean Sciences
+
+<p>Adjunct Instructor, University of Alaska Fairbanks (Jan – May 2019)
+<br>Principles of Evolution (BIOL481/681, 4 credits) – Undergraduate course in the Biology & Wildlife Department
+
+<p>Adjunct Instructor, University of Alaska Southeast (Jan – May 2017)
+<br>Evolution (BIOL S482, 4 credits) - Undergraduate capstone course in the Biology and Marine Biology Department
 <p>&nbsp;</p>
 <HR>
 <font size="3"><b><i>Student Mentorship, University of Alaska Fairbanks</b></i></font>
 
 **Graduate Student Committees**
+<br>Brett Carouthers, MS graduate student (UAF, Marine Biology). Major Professor: Dr. Lara Horstmann
 <br>Katie Stoner, PhD graduate student (Oregon State U, Fish and Wildlife). Major Professor: Dr. Don Lyons
 <br>Lindsey Stadler. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Katrin Iken
-<br>Drew Porter. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Mat Wooller
 <br>Elizabeth Hasan. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
 <br>Brian Ulaski. PhD candidate (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
 <br>Chris Guo. PhD graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
+<br>Drew Porter. MS graduate student (UAF, Marine Biology, graduated 2022). Major Professor: Dr. Mat Wooller
 <br>Julia McMahon. MS graduate student (UAF, Fisheries, graduated 2021). Major Professor: Dr. Peter Westley
 
 **Undergraduate Students**
@@ -32,6 +39,10 @@ title: "Teaching"
 <p>&nbsp;</p>
 <HR>
 <font size="3"><b><i>Service, University of Alaska Fairbanks and beyond</b></i></font>
+
+Proposal reviewer for Arctic-Yukon-Kuskokwim Sustainable Salmon Initiative (September 2022).
+
+Review editor for Frontiers in Marine Science, Marine Megafauna section (August 2022–Present).
 
 Institutional Animal Care and Use Committee (IACUC) member, University of Alaska Fairbanks, Fairbanks, Alaska (July 2021 - present)
 
@@ -42,4 +53,4 @@ Peer-review (with honorarium) of Marine Biology: function, diversity, and ecolog
 Co-chair of the 2016 Alaska Bird Conference, Cordova, Alaska, December 2016.
 <p>&nbsp;</p>
 <HR>
-Updated 10 Feb 2022
+Updated 2 Sept 2022

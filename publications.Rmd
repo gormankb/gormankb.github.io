@@ -57,6 +57,8 @@ title: "Publications"
 
 <HR>
 <font size="3"><b><i>Data Products</b></i></font>
+<p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. In press, August 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. GitHub, https://github.com/gormankb/Schaefer-et-al.-Frontiers-in-Marine-Science.
+
 <p>**Gorman, K.B.**, K.E. Ruck, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. GitHub, https://github.com/gormankb/Gorman-et-al.-Frontiers-in-Marine-Science. Environmental Data Initiative Data Portal, https://portal.edirepository.org/nis/home.jsp. Package IDs: knb-lter-pal.223.1, knb-lter-pal.224.1, knb-lter-pal.225.1, knb-lter-pal.226.1, knb-lter-pal.227.1.
 
 <p>Knudsen, E.E., P.S. Rand, **K.B. Gorman**, D.R. Bernard, and W.D. Templin. 2020. Hatchery-origin stray rates and total run characteristics for Pink Salmon and Chum Salmon returning to Prince William Sound, Alaska in 2013-2015. Knowledge Network for Biocomplexity, https://knb.ecoinformatics.org. doi:10.5063/F1QV3JXF.
@@ -97,4 +99,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 31 August 2022
+Updated 2 Sept 2022
