@@ -15,6 +15,8 @@ title: "Research"
 <HR>
 <font size="3"><b><i>Major Funding as PI or co-I (since 2015)</b></i></font>
 <br><u>Active projects</u>
+<p>*Marine habitat use by seabirds of the Pribilof Islands Marine Ecosystem (PRIME) during the non-breeding season: distribution, phenology, and environmental correlates*. Funded by USFWS Tribal Wildlife Grant (TWIG) Program ($199,999). October 2022. Investigators: V. Padula (Lead-PI, Aleut Community of St. Paul Island) and **K.B. Gorman** (co-PI, U Alaska Fairbanks).
+
 <p>*Mechanisms of marine predator response to environmental variability in the Arctic: provisioning diet and physiological preparation for post-fledging exercise by black-legged kittiwakes*. Funded by UAF BLaST program ($59,952, 2 years). Dec 2021. Investigators: **K.B. Gorman** (lead-PI, U Alaska Fairbanks) and V. Padula (co-I, Aleut Community of St. Paul Island).
 
 *Seabird biologging at St. Paul Island, Alaska*. Funded by University of Alaska Faculty Initiative Fund ($29,700, 6 mo). Nov 2021. Investigators: **K.B. Gorman** (lead PI, U Alaska Fairbanks), D. Causey (co-I, U Alaska Anchorage), and V. Padula (co-I, Aleut Community of St. Paul Island).
@@ -51,4 +53,4 @@ title: "Research"
 *Juvenile Herring Condition Monitoring, Intensives (2012-14)*. Funded by Exxon Valdez Oil Spill Trustee Council ($304,700). Investigators: **K.B. Gorman** (lead PI 2014, PWSSC) and R. Heintz (co-PI, NOAA-ABL). Project completed, Feb 2020.
 
 <HR>
-Updated 7 Jun 2022
+Updated 11 Nov 2022
