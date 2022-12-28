@@ -7,7 +7,7 @@ title: "Publications"
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
 
-<p><u>Porter, D.E.<u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. Submitted. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. Environmental Toxicology and Chemistry.
+<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. Submitted. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. Environmental Toxicology and Chemistry.
 
 <p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. *Frontiers in Marine Science* 9:999461. Open access here: https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full
 
