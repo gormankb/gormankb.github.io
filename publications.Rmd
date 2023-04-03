@@ -6,6 +6,7 @@ title: "Publications"
 <p>&nbsp;</p>
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
+<p>Iken, K. C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. Submitted, Apr 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. Marine Ecology Progress Series.
 
 <p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. Submitted, Jan 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. Environmental Toxicology and Chemistry.
 
