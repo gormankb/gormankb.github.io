@@ -60,7 +60,7 @@ title: "Publications"
 
 <HR>
 <font size="3"><b><i>Data Products</b></i></font>
-<p>**Gorman, K**. 2023. Studies of reproductive maturity among age cohorts of Pacific Herring (Clupea pallasii) in Prince William Sound, Alaska, 2017-2019, EVOS Herring Program. Dataset. 10.24431/rw1k7d4
+<p>**Gorman, K**. 2023. Studies of reproductive maturity among age cohorts of Pacific Herring (Clupea pallasii) in Prince William Sound, Alaska, 2017-2019, EVOS Herring Program. https://search.dataone.org/view/10.24431%2Frw1k7d4
 
 <p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. GitHub, https://github.com/gormankb/Schaefer-et-al.-Frontiers-in-Marine-Science.
 
