@@ -27,8 +27,8 @@ title: "Teaching"
 **Graduate Student Committees**
 <br>Brett Carouthers, MS graduate student (UAF, Marine Biology). Major Professor: Dr. Lara Horstmann
 <br>Katie Stoner, PhD graduate student (Oregon State U, Fish and Wildlife). Major Professor: Dr. Don Lyons
-<br>Lindsey Stadler. MS graduate student (UAF, Marine Biology). Major Professor: Dr. Katrin Iken
 <br>Chris Guo. PhD graduate student (UAF, Marine Biology). Major Professor: Dr. Brenda Konar
+<br>Lindsey Stadler. MS graduate student (UAF, Marine Biology, graduated 2022). Major Professor: Dr. Katrin Iken
 <br>Elizabeth Hasan. MS graduate student (UAF, Marine Biology, graduated 2022). Major Professor: Dr. Brenda Konar
 <br>Brian Ulaski. PhD candidate (UAF, Marine Biology, graduated 2022). Major Professor: Dr. Brenda Konar
 <br>Drew Porter. MS graduate student (UAF, Marine Biology, graduated 2022). Major Professor: Dr. Mat Wooller
@@ -53,4 +53,4 @@ Peer-review (with honorarium) of Marine Biology: function, diversity, and ecolog
 Co-chair of the 2016 Alaska Bird Conference, Cordova, Alaska, December 2016.
 <p>&nbsp;</p>
 <HR>
-Updated 11 Nov 2022
+Updated 7 Apr 2023

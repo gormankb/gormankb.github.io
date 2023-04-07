@@ -60,7 +60,9 @@ title: "Publications"
 
 <HR>
 <font size="3"><b><i>Data Products</b></i></font>
-<p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. In press, August 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. GitHub, https://github.com/gormankb/Schaefer-et-al.-Frontiers-in-Marine-Science.
+<p>**Gorman, K**. 2023. Studies of reproductive maturity among age cohorts of Pacific Herring (Clupea pallasii) in Prince William Sound, Alaska, 2017-2019, EVOS Herring Program. Dataset. 10.24431/rw1k7d4
+
+<p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. GitHub, https://github.com/gormankb/Schaefer-et-al.-Frontiers-in-Marine-Science.
 
 <p>**Gorman, K.B.**, K.E. Ruck, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. GitHub, https://github.com/gormankb/Gorman-et-al.-Frontiers-in-Marine-Science. Environmental Data Initiative Data Portal, https://portal.edirepository.org/nis/home.jsp. Package IDs: knb-lter-pal.223.1, knb-lter-pal.224.1, knb-lter-pal.225.1, knb-lter-pal.226.1, knb-lter-pal.227.1.
 
@@ -77,6 +79,8 @@ title: "Publications"
 
 <HR>
 <font size="3"><b><i>Major Grant Reports (since 2015)</b></i></font>
+<p>**K.B. Gorman**. 2023. *Studies of reproductive maturity among age cohorts of Pacific Herring (Clupea pallasii) in Prince William Sound, Alaska*. Prince William Sound Science Center Final Report 2023 to Exxon Valdez Oil Spill Trustee Council. 54 pp.
+
 <p>Rand, P.S. and **K.B. Gorman**. 2022. *Implications of a declining trend in body size and condition on abundance of Sockeye Salmon in the Copper River, Alaska*. North Pacific Research Board Project 1902 Final Report. 52 pp.
 
 <p>**Gorman, K.B.**, A.L. Schaefer, and M.A. Bishop. 2022. *Resolving the annual pelagic distribution of tufted puffins: associations with oceanographic features and isotopic niche*. North Pacific Research Board Project 1812 Final Report. 59 pp.
@@ -102,4 +106,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 28 Dec 2022
+Updated 7 Apr 2023
