@@ -14,7 +14,7 @@
 
 <title>Kristen B. Gorman, PhD</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -33,8 +33,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -300,11 +297,11 @@ $(document).ready(function () {
 <p>
 <p>I am a broadly trained fisheries and wildlife ecologist focused on high latitude coastal and pelagic marine ecosystems (Pacific northwest and Alaska, western Antarctic Peninsula). My research interests lie at the intersection of evolution, ecology, and physiology, thus I take integrative approaches to understanding factors that shape animal behavior (foraging, breeding, toxicology/disease, and movement ecology), fitness (including associated life history traits and trade-offs), and population dynamics (demographic rates and population structure) to advance basic knowledge and inform management and conservation actions. <strong>The overarching goal of my work is to develop molecule to ecosystem perspectives focusing on the integrative evolutionary ecology of animal systems</strong>, some of which are critically important for commercial fisheries and subsistence harvests. I incorporate modern, quantitative methods in my work, and strive to inspire students to develop their own quantitative and communication skills to train the next generation of conservation ecologists. I also aim to enhance the public’s interest in nature and understanding of the scientific process. I am always looking for new collaborators and students to join my program, please reach out to me if you have interest in my work - a few recent papers are noted below. Thanks for stopping by!</p>
 <p>
+<p>Iken, K. C.D. Amsler, <strong>K.B. Gorman</strong>, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. <em>Marine Ecology Progress Series</em>.</p>
+<p>
+<p>Porter, D.E., J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, <strong>K.B. Gorman</strong>, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. <em>Environmental Toxicology and Chemistry</em>.</p>
+<p>
 <p>Schaefer, A.L., <strong>K.B. Gorman</strong>, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. <a href="https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full"><em>Frontiers in Marine Science</em> 9:999461</a>.</p>
-<p>
-<p><u>Guo, C.</u>, B.H. Konar, <strong>K.B. Gorman</strong>, and C.M. Walker. 2022. Environmental factors important to high-latitude nearshore estuarine fish community structure. <a href="https://doi.org/10.1016/j.dsr2.2022.105109"><em>Deep-Sea Research II</em> 201:105109</a>.</p>
-<p>
-<p>Horst, A.M., A.P. Hill, and <strong>K.B. Gorman</strong>. 2022. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. <a href="https://journal.r-project.org/articles/RJ-2022-020/"><em>The R Journal</em> 14(1):244-254</a>.</p>
 <HR>
 <font size="3"><b><i>Funded Graduate and Undergraduate Student Opportunities</b></i></font>
 <p>
@@ -325,7 +322,7 @@ $(document).ready(function () {
 <p><br>BS (1996)<img style="float: left; margin: 5px 10px 5px 5px;" src="index_files/figure-html/Dickinson.png" width="50" /> <br>Department of Biology, Dickinson College, Carlisle, Pennsylvania, USA</p>
 <HR>
 <p>
-<p>© Copyright 2021, Kristen B. Gorman, PhD <br> Website last updated 27 Jun 2023</p>
+<p>© Copyright 2021, Kristen B. Gorman, PhD <br> Website last updated 31 July 2023</p>
 
 
 

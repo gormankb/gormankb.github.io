@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -293,11 +290,11 @@ $(document).ready(function () {
 </p>
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
 <p>
-<p>Hasan, E.L., <strong>K.B. Gorman</strong>, H.A. Colletti, B.H. Konar. Submitted, Jun 2023. Species distribution modeling of northern sea otters (<em>Enhydra lutris kenyoni</em>) in a data-limited ecosystem. Diverity and Distributions.</p>
+<p>Hasan, E.L., <strong>K.B. Gorman</strong>, H.A. Colletti, B.H. Konar. Submitted, July 2023. Species distribution modeling of northern sea otters (<em>Enhydra lutris kenyoni</em>) in a data-limited ecosystem. Ecology and Evolution.</p>
 <p>
-<p>Iken, K. C.D. Amsler, <strong>K.B. Gorman</strong>, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In revision, Jun 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. Marine Ecology Progress Series.</p>
+<p>Iken, K. C.D. Amsler, <strong>K.B. Gorman</strong>, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. <em>Marine Ecology Progress Series</em>.</p>
 <p>
-<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, <strong>K.B. Gorman</strong>, T.A.Radenbaugh, and B.D. Barst. In revision, Jun 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. Environmental Toxicology and Chemistry.</p>
+<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, <strong>K.B. Gorman</strong>, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. <em>Environmental Toxicology and Chemistry</em>.</p>
 <p>
 <p>Schaefer, A.L., <strong>K.B. Gorman</strong>, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. <em>Frontiers in Marine Science</em> 9:999461. Open access here: <a href="https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full" class="uri">https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full</a></p>
 <p>
@@ -393,7 +390,7 @@ $(document).ready(function () {
 <p>
 <p>Knudsen, E., M. Buckhorn, <strong>K. Gorman</strong>, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. <em>Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska</em>. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish &amp; Game, Contract IHP-13-013.</p>
 <HR>
-<p>Updated 27 Jun 2023</p>
+<p>Updated 31 Jul 2023</p>
 
 
 
