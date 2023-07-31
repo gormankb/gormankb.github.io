@@ -26,7 +26,7 @@ author: Assistant Professor of Marine Biology
 
 <p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series*.
 
-<p>Porter, D.E., J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry*.
+<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry*.
 
 <p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. <a href="https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full">*Frontiers in Marine Science* 9:999461</a>.
 
