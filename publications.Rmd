@@ -6,11 +6,15 @@ title: "Publications"
 <p>&nbsp;</p>
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
-<p><u>Hasan, E.L.</u>, **K.B. Gorman**, H.A. Colletti, B.H. Konar. Submitted, July 2023. Species distribution modeling of northern sea otters (*Enhydra lutris kenyoni*) in a data-limited ecosystem. Ecology and Evolution.
+<p><u>Stadler, L.<u>, **K. Gorman**, V. von Biela, A. Seitz, K. Iken. Submitted, Dec 2023. Does the extent of glacial cover across watersheds and discharge periods affect dietary resource use of nearshore fishes in the Northern Gulf of Alaska? *Journal of Experimental Marine Biology and Ecology*.
 
-<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series*.
+<p><u>McMahon, J.</u>, S.A. May, P.S. Rand, **K.B. Gorman**, M.V. McPhee, P.A.H. Westley. Submitted, Nov 2023. Assortative dispersal and differences in fitness-associated traits between hatchery and wild pink salmon (*Oncorhynchus gorbuscha*) in Prince William Sound, Alaska. *Ecology*.
 
-<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry*.
+<p><u>Hasan, E.L.</u>, **K.B. Gorman**, H.A. Colletti, B.H. Konar. In revision, Nov 2023. Species distribution modeling of northern sea otters (*Enhydra lutris kenyoni*) in a data-limited ecosystem. Ecology and Evolution.
+
+<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry* 42(11):2440-2452. DOI: https://doi.org/10.1002/etc.5724.
+
+<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series* 718:1-22. Open access here: https://doi.org/10.3354/meps14388
 
 <p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. *Frontiers in Marine Science* 9:999461. Open access here: https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full
 
@@ -108,4 +112,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 31 Jul 2023
+Updated 20 Nov 2023

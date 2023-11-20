@@ -24,9 +24,9 @@ author: Assistant Professor of Marine Biology
 <font size="3"><b><i>Research Overview</b></i></font>
 <p>I am a broadly trained fisheries and wildlife ecologist focused on high latitude coastal and pelagic marine ecosystems (Pacific northwest and Alaska, western Antarctic Peninsula). My research interests lie at the intersection of evolution, ecology, and physiology, thus I take integrative approaches to understanding factors that shape animal behavior (foraging, breeding, toxicology/disease, and movement ecology), fitness (including associated life history traits and trade-offs), and population dynamics (demographic rates and population structure) to advance basic knowledge and inform management and conservation actions. **The overarching goal of my work is to develop molecule to ecosystem perspectives focusing on the integrative evolutionary ecology of animal systems**, some of which are critically important for commercial fisheries and subsistence harvests. I incorporate modern, quantitative methods in my work, and strive to inspire students to develop their own quantitative and communication skills to train the next generation of conservation ecologists. I also aim to enhance the public's interest in nature and understanding of the scientific process. I am always looking for new collaborators and students to join my program, please reach out to me if you have interest in my work - a few recent papers are noted below. Thanks for stopping by!
 
-<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series*.
+<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry* 42(11):2440-2452. DOI: https://doi.org/10.1002/etc.5724.
 
-<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry*.
+<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series* 718:1-22. Open access here: https://doi.org/10.3354/meps14388
 
 <p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. <a href="https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full">*Frontiers in Marine Science* 9:999461</a>.
 
@@ -63,4 +63,4 @@ author: Assistant Professor of Marine Biology
 
 <HR>
 <p>© Copyright 2021, Kristen B. Gorman, PhD
-<br> Website last updated 31 July 2023
+<br> Website last updated 20 November 2023
