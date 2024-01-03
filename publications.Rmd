@@ -6,7 +6,7 @@ title: "Publications"
 <p>&nbsp;</p>
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
-<p><u>McMahon, J.</u>, S.A. May, P.S. Rand, **K.B. Gorman**, M.V. McPhee, P.A.H. Westley. January, Nov 2024. Assortative dispersal and differences in fitness-associated traits between hatchery and wild pink salmon (*Oncorhynchus gorbuscha*) in Prince William Sound, Alaska. *Ecological Applications*.
+<p><u>McMahon, J.</u>, S.A. May, P.S. Rand, **K.B. Gorman**, M.V. McPhee, P.A.H. Westley. Submitted, Jan 2024. Assortative dispersal and differences in fitness-associated traits between hatchery and wild pink salmon (*Oncorhynchus gorbuscha*) in Prince William Sound, Alaska. *Ecological Applications*.
 
 <p><u>Stadler, L.<u>, **K. Gorman**, V. von Biela, A. Seitz, K. Iken. Submitted, Dec 2023. Does the extent of glacial cover across watersheds and discharge periods affect dietary resource use of nearshore fishes in the Northern Gulf of Alaska? *Journal of Experimental Marine Biology and Ecology*.
 
@@ -112,4 +112,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 20 Nov 2023
+Updated 3 Jan 2024

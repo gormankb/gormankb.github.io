@@ -24,9 +24,9 @@ author: Assistant Professor of Marine Biology
 <font size="3"><b><i>Research Overview</b></i></font>
 <p>Research in the Gorman Lab (established 2022) lies at the intersection of evolution, ecology, and physiology, thus we take integrative approaches to understanding factors that shape animal behavior (foraging, breeding, toxicology/disease, and movement ecology), fitness (including associated life history traits and trade-offs), and population dynamics (demographic rates and population structure) to advance basic knowledge and inform management and conservation actions. **The overarching goal of the lab is to develop molecule to ecosystem perspectives focusing on the integrative evolutionary ecology of animal systems**, some of which are critically important for commercial fisheries and subsistence harvests. Together as a lab group, we incorporate modern, quantitative methods in our work, while honing our communication skills to train the next generation of conservation ecologists. The lab also aims to enhance the public's interest in nature and understanding of the scientific process. We are always looking for new collaborators and students to join our program in Marine Biology at CFOS/UAF, please reach out to Kristen Gorman if you have interest in our work - a few recent papers are noted below. Thanks for stopping by!
 
-<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry* 42(11):2440-2452. DOI: https://doi.org/10.1002/etc.5724.
+<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. In press, July 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. <a href="https://doi.org/10.1002/etc.5724">*Environmental Toxicology and Chemistry* 42(11):2440-2452</a>.
 
-<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series* 718:1-22. Open access here: https://doi.org/10.3354/meps14388
+<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. In press, July 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. <a href="https://doi.org/10.3354/meps14388">*Marine Ecology Progress Series* 718:1-22</a>.
 
 <p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. <a href="https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full">*Frontiers in Marine Science* 9:999461</a>.
 
@@ -35,31 +35,12 @@ author: Assistant Professor of Marine Biology
 <p>Winter 2024: We are recruiting a MS graduate student to join an ongoing project focused on seabird movements and marine spatial planning at St. Paul Island, Alaksa in collaboration with the Aleut Community of St. Paul Island Tribal Government's Ecosystem Coservation Office (https://www.aleut.com/eco/). If you have interest in this project, please reach out by email to Kristen Gorman.
 
 <HR>
-<font size="3"><b><i>Professional Appointments</b></i></font>
-<p>Assistant Professor of Marine Biology (Aug 2022–Present)<img style="float: left; margin: 5px 10px 5px 5px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/CFOS-iceberg-ship-fish-COLOR.png" width="50" />
-<br>College of Fisheries and Ocean Sciences, University of Alaska Fairbanks
-<br>Fairbanks, Alaska
+<font size="3"><b><i>Lab Group Members</b></i></font>
+<p>**Abby Host**<img style="float: right; margin: 0px 75px 15px 15px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/AbbyHost.png" width="300" />
+<br>Abby joined the lab in Fall 2023 as MS student in the Marine Biology program. Abby earned a BS degree in Biology with a minor in Environmental Studies from Boston College in 2021. She is an avid outdoors woman and athlete with interests in high latitude fisheries ecology. Abby's thesis work is focused on understanding relationships between pathogen diversity and loads and body condition of returning Sockeye Salmon to the Copper River, Alaska. Abby's research is supported by a Teaching Assistantship during AY23-24, and a grant from the National Park Service, *Examine health metrics of Copper River sockeye stocks to inform management decision making*. Abby's graduate committee includes Kristen Gorman, project collaborator <a href="https://pwssc.org/about/pete-s-rand-phd/">Dr. Pete Rand</a> (Prince William Sound Science Center), and <a href="https://www.uaf.edu/cfos/people/faculty/detail/lara-horstmann.php">Dr. Lara Horstmann</a> (Dept Chair, UAF Marine Biology).
 
-<p>Research Assistant Professor of Marine Biology (Nov 2018–Aug 2022)<img style="float: left; margin: 5px 10px 5px 5px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/CFOS-iceberg-ship-fish-COLOR.png" width="50" />
-<br>College of Fisheries and Ocean Sciences, University of Alaska Fairbanks
-<br>Fairbanks, Alaska
-
-<p>Research Ecologist (Jul 2014–Nov 2018)<img style="float: left; margin: 5px 10px 5px 5px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/PWSSC.png" width="50" />
-<br>Prince William Sound Science Center
-<br>Cordova, Alaska
-
-<HR>
-<font size="3"><b><i>Education</b></i></font>
-<p>PhD (2015)<img style="float: left; margin: 5px 10px 5px 5px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/SFU-3.png" width="50" />
-<br>Department of Biological Sciences, Simon Fraser University, Burnaby, British Columbia, Canada and
-<br>Palmer LTER-NSF, Palmer Station, Antarctica
-
-<br>MSc (2005)<img style="float: left; margin: 5px 10px 5px 5px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/SFU-3.png" width="50" />
-<br>Department of Biological Sciences, Simon Fraser University, Burnaby, British Columbia, Canada and
-<br>Alaska Science Center–USGS, Anchorage, Alaska, USA
-
-<br>BS (1996)<img style="float: left; margin: 5px 10px 5px 5px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/Dickinson.png" width="50" />
-<br>Department of Biology, Dickinson College, Carlisle, Pennsylvania, USA
+<p>**Alex Borsy**<img style="float: right; margin: 0px 75px 15px 15px;" src="/Users/KBGorman/Documents/2021 KGorman website/gormankb.github.io/index_files/figure-html/AlexBorsky.JPG" width="300" />
+<br>Alex joined the lab in Spring 2024 as MS student in the Marine Biology program. Alex earned a BS degree in Marine Science with a concentration in Marine Biology and a minor in Fisheries from University of Maine in 2013. Alex is an avid hiker having completed all three of North America's famous through hikes - the Applachian Trail, the Continental Divide Trail, and the Pacific Crest Trail. Alex is currently refining the focus of his thesis work, but he will be assisting Kristen Gorman, <a href="https://pwssc.org/about/pete-s-rand-phd/">Dr. Pete Rand</a>, and <a href="https://sitkascience.org/people/ron-heintz/">Dr. Ron Heintz</a> (Sitka Sound Science Center) on a project funded by the *Exxon Valdez* Oil Spill Trustee Council, *Ecological interactions between Pacific herring and Pacific salmon in Prince William Sound, Alaska*. Prior to joining CFOS as a grad student, Alex worked as a field assistant with UAF's Beaufort Sea Long-Term Nearshore Fish Monitoring Program, as a fisheries observer aboard commercial trawlers off the Oregon and Washington coasts, and as a contract biologist on a NOAA research project in the Columbia River estuary using passive integrated transponder (PIT) technologies to evaluate survival and timing of outmigrating juvenile salmon through the federal hydropower system.
 
 <HR>
 <p>© Copyright 2021, Kristen B. Gorman, PhD
