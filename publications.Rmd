@@ -10,7 +10,7 @@ title: "Publications"
 
 <p><u>Stadler, L.</u>, **K. Gorman**, V. von Biela, A. Seitz, K. Iken. Submitted, Dec 2023. Does the extent of glacial cover across watersheds and discharge periods affect dietary resource use of nearshore fishes in the Northern Gulf of Alaska? *Journal of Experimental Marine Biology and Ecology*.
 
-<p><u>Hasan, E.L.</u>, **K.B. Gorman**, H.A. Colletti, B.H. Konar. In revision, Nov 2023. Species distribution modeling of northern sea otters (*Enhydra lutris kenyoni*) in a data-limited ecosystem. Ecology and Evolution.
+<p><u>Hasan, E.L.</u>, **K.B. Gorman**, H.A. Colletti, B.H. Konar. In press, Feb 2023. Species distribution modeling of northern sea otters (*Enhydra lutris kenyoni*) in a data-limited ecosystem. Ecology and Evolution.
 
 <p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry* 42(11):2440-2452. Open access here: https://doi.org/10.1002/etc.5724.
 
@@ -85,6 +85,10 @@ title: "Publications"
 
 <HR>
 <font size="3"><b><i>Major Grant Reports (since 2015)</b></i></font>
+<p>Rand, P.S. and **K.B. Gorman**. 2024. *Evaluating factors related to in river adult mortality in Copper River sockeye salmon*. Alaska Sustainable Salmon Initiative Final Report.  22 pp.
+
+<p>**K.B. Gorman**, M.K. Nims, T.L. Sformo, and P.S. Rand. 2024. *Are expanding Pacific salmon populations in the Arctic produced from regional watersheds?* Coastal Marine Institute/BOEM Final Report. 47 pp.
+
 <p>**K.B. Gorman**. 2023. *Studies of reproductive maturity among age cohorts of Pacific Herring (Clupea pallasii) in Prince William Sound, Alaska*. Prince William Sound Science Center Final Report 2023 to Exxon Valdez Oil Spill Trustee Council. 54 pp.
 
 <p>Rand, P.S. and **K.B. Gorman**. 2022. *Implications of a declining trend in body size and condition on abundance of Sockeye Salmon in the Copper River, Alaska*. North Pacific Research Board Project 1902 Final Report. 52 pp.
@@ -112,4 +116,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 3 Jan 2024
+Updated 4 Mar 2024
