@@ -6,63 +6,63 @@ title: "Publications"
 <p>&nbsp;</p>
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
-<p><u>McMahon, J.</u>, S.A. May, P.S. Rand, **K.B. Gorman**, M.V. McPhee, P.A.H. Westley. In revision, Oct 2024. Assortative dispersal and differences in fitness-associated traits between hatchery and wild pink salmon (*Oncorhynchus gorbuscha*) in Prince William Sound, Alaska. *Ecology and Evolution*.
+<p>29. <u>McMahon, J.</u>, S.A. May, P.S. Rand, **K.B. Gorman**, M.V. McPhee, P.A.H. Westley. In revision, Oct 2024. Assortative dispersal and differences in fitness-associated traits between hatchery and wild pink salmon (*Oncorhynchus gorbuscha*) in Prince William Sound, Alaska. *Ecology and Evolution*.
 
-<p><u>Stadler, L.</u>, **K. Gorman**, V. von Biela, A. Seitz, K. Iken. 2024. Does the extent of glacial cover across watersheds and discharge periods affect dietary resource use of nearshore fishes in the Northern Gulf of Alaska? *Journal of Experimental Marine Biology and Ecology* 577:152022. Open access here: https://www.sciencedirect.com/science/article/pii/S0022098124000376
+<p>28. <u>Stadler, L.</u>, **K. Gorman**, V. von Biela, A. Seitz, K. Iken. 2024. Does the extent of glacial cover across watersheds and discharge periods affect dietary resource use of nearshore fishes in the Northern Gulf of Alaska? *Journal of Experimental Marine Biology and Ecology* 577:152022. Open access here: https://www.sciencedirect.com/science/article/pii/S0022098124000376
 
-<p><u>Hasan, E.L.</u>, **K.B. Gorman**, H.A. Colletti, B.H. Konar. 2024. Species distribution modeling of northern sea otters (*Enhydra lutris kenyoni*) in a data-limited ecosystem. *Ecology and Evolution* 14:e11118. Open access here: https://doi.org/10.1002/ece3.11118
+<p>27. <u>Hasan, E.L.</u>, **K.B. Gorman**, H.A. Colletti, B.H. Konar. 2024. Species distribution modeling of northern sea otters (*Enhydra lutris kenyoni*) in a data-limited ecosystem. *Ecology and Evolution* 14:e11118. Open access here: https://doi.org/10.1002/ece3.11118
 
-<p><u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry* 42(11):2440-2452. Open access here: https://doi.org/10.1002/etc.5724
+<p>26. <u>Porter, D.E.</u>, J.M. Morris, M. Trifari, M.J. Wooller, P.A.H. Westley, **K.B. Gorman**, T.A.Radenbaugh, and B.D. Barst. 2023. Acute toxicity of copper to three species of Pacific salmon juveniles in water with low hardness and low dissolved organic carbon. *Environmental Toxicology and Chemistry* 42(11):2440-2452. Open access here: https://doi.org/10.1002/etc.5724
 
-<p>Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series* 718:1-22. Open access here: https://doi.org/10.3354/meps14388
+<p>25. Iken, K., C.D. Amsler, **K.B. Gorman**, A.G. Klein, A.W.E. Galloway, M.O. Amsler, S. Heiser, R. Whippo, A.T. Lowe, J.G. Schram, Z.X. Schneider, J.B. McClintock. 2023. Macroalgal input into the coastal food web along a gradient of seasonal sea ice cover along the Western Antarctic Peninsula. *Marine Ecology Progress Series* 718:1-22. Open access here: https://doi.org/10.3354/meps14388
 
-<p>Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. *Frontiers in Marine Science* 9:999461. Open access here: https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full
+<p>24. Schaefer, A.L., **K.B. Gorman**, and M.A. Bishop. 2022. Light-level geolocation reveals the short-distance non-breeding movements and distribution of tufted puffins throughout the Northeast Pacific Ocean. *Frontiers in Marine Science* 9:999461. Open access here: https://www.frontiersin.org/articles/10.3389/fmars.2022.999461/full
 
-<p><u>Guo, C.</u>, B.H. Konar, **K.B. Gorman**, and C.M. Walker. 2022. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II* 201:105109. Open access here: https://doi.org/10.1016/j.dsr2.2022.105109
+<p>23. <u>Guo, C.</u>, B.H. Konar, **K.B. Gorman**, and C.M. Walker. 2022. Environmental factors important to high-latitude nearshore estuarine fish community structure. *Deep-Sea Research II* 201:105109. Open access here: https://doi.org/10.1016/j.dsr2.2022.105109
 
-<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. 2022. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal* 14(1):244-254. Open access here: https://journal.r-project.org/articles/RJ-2022-020/
+<p>22. Horst, A.M., A.P. Hill, and **K.B. Gorman**. 2022. Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises. *The R Journal* 14(1):244-254. Open access here: https://journal.r-project.org/articles/RJ-2022-020/
 
-<p>**Gorman, K.B.**, <u>K.E. Ruck</u>, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. *Frontiers in Marine Science* 8:526092. Open access here: https://doi.org/10.3389/fmars.2021.526092
+<p>21. **Gorman, K.B.**, <u>K.E. Ruck</u>, T.D. Williams and W.R. Fraser. 2021. Advancing the sea ice hypothesis: trophic interactions among breeding *Pygoscelis* penguins with divergent population trends throughout the western Antarctic Peninsula. *Frontiers in Marine Science* 8:526092. Open access here: https://doi.org/10.3389/fmars.2021.526092
 
-<p>Arimitsu, M.L., J.F. Piatt, S. Hatch, R.M. Suryan, S. Batten, M.A. Bishop, R.W. Campbell, H. Coletti, D. Cushing, **K. Gorman**, R.R. Hopcroft, K.J. Kuletz, C. Marsteller, C. McKinstry, D. McGowan, J. Moran, W.S. Pegau, A. Schaefer, S. Schoen, J. Straley, and V.R. von Biela. 2021. Heatwave-induced synchrony within forage fish portfolio disrupts energy flow to top pelagic predators. *Global Change Biology* 27:1859–1878. Open access here: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15556 
+<p>20. Arimitsu, M.L., J.F. Piatt, S. Hatch, R.M. Suryan, S. Batten, M.A. Bishop, R.W. Campbell, H. Coletti, D. Cushing, **K. Gorman**, R.R. Hopcroft, K.J. Kuletz, C. Marsteller, C. McKinstry, D. McGowan, J. Moran, W.S. Pegau, A. Schaefer, S. Schoen, J. Straley, and V.R. von Biela. 2021. Heatwave-induced synchrony within forage fish portfolio disrupts energy flow to top pelagic predators. *Global Change Biology* 27:1859–1878. Open access here: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15556 
 
-<p>Knudsen, E.E., P.S. Rand, **K.B. Gorman**, D.R. Bernard, and W.D. Templin. 2021. Hatchery-origin stray rates and total run characteristics for Pink Salmon and Chum Salmon returning to Prince William Sound, Alaska in 2013-2015. *Marine and Coastal Fisheries* 13:58-85. Open access here: https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10134
+<p>19. Knudsen, E.E., P.S. Rand, **K.B. Gorman**, D.R. Bernard, and W.D. Templin. 2021. Hatchery-origin stray rates and total run characteristics for Pink Salmon and Chum Salmon returning to Prince William Sound, Alaska in 2013-2015. *Marine and Coastal Fisheries* 13:58-85. Open access here: https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/mcf2.10134
 
-<p>Horst, A.M., A.P. Hill, and **K.B. Gorman**. 2020. palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. Open access here: https://allisonhorst.github.io/palmerpenguins/. Downloaded from CRAN over 200,000 times (Sept 2021)!
+<p>18. Horst, A.M., A.P. Hill, and **K.B. Gorman**. 2020. palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. Open access here: https://allisonhorst.github.io/palmerpenguins/. Downloaded from CRAN over 200,000 times (Sept 2021)!
 
-<p>Connors, B., M. Malick, G. T. Ruggerone, P. Rand, M. Adkison, J. R. Irvine, R. Campbell, and **K. Gorman**. 2020. Climate and competition shape sockeye salmon population dynamics across the Northeast Pacific Ocean. *Canadian Journal of Fisheries and Aquatic Sciences* 77: 943–949. Please note the subsequent correction to this article. Open access here: https://cdnsciencepub.com/doi/10.1139/cjfas-2019-0422 
+<p>17. Connors, B., M. Malick, G. T. Ruggerone, P. Rand, M. Adkison, J. R. Irvine, R. Campbell, and **K. Gorman**. 2020. Climate and competition shape sockeye salmon population dynamics across the Northeast Pacific Ocean. *Canadian Journal of Fisheries and Aquatic Sciences* 77: 943–949. Please note the subsequent correction to this article. Open access here: https://cdnsciencepub.com/doi/10.1139/cjfas-2019-0422 
 
-<p>**Gorman, K.B.**, T.C. Kline Jr., M.E. Roberts, F.F. Sewall, R.A. Heintz, and W.S. Pegau. 2018. Spatial and temporal variation in winter condition of juvenile Pacific herring (*Clupea pallasii*) in Prince William Sound, Alaska: oceanographic exchange with the Gulf of Alaska. *Deep-Sea Research II* 147:116-126. Open access here: https://www.sciencedirect.com/science/article/pii/S0967064516303708 
+<p>16. **Gorman, K.B.**, T.C. Kline Jr., M.E. Roberts, F.F. Sewall, R.A. Heintz, and W.S. Pegau. 2018. Spatial and temporal variation in winter condition of juvenile Pacific herring (*Clupea pallasii*) in Prince William Sound, Alaska: oceanographic exchange with the Gulf of Alaska. *Deep-Sea Research II* 147:116-126. Open access here: https://www.sciencedirect.com/science/article/pii/S0967064516303708 
 
-<p>**Gorman, K.B.**, S.L. Talbot, S.A. Sonsthagen, G.K. Sage, M.C. Gravely, W.R. Fraser and T.D. Williams. 2017. Population genetic structure and gene flow of Adélie penguins (*Pygoscelis adeliae*) breeding throughout the western Antarctic Peninsula. *Antarctic Science* 29(6):499-510.
+<p>15. **Gorman, K.B.**, S.L. Talbot, S.A. Sonsthagen, G.K. Sage, M.C. Gravely, W.R. Fraser and T.D. Williams. 2017. Population genetic structure and gene flow of Adélie penguins (*Pygoscelis adeliae*) breeding throughout the western Antarctic Peninsula. *Antarctic Science* 29(6):499-510.
 
-<p>**Gorman, K.B.** 2015. Integrative studies of Southern Ocean food webs and *Pygoscelis* penguin demography: mechanisms of population response to environmental change. Ph.D. Thesis. Simon Fraser University, Burnaby, British Columbia, Canada. 337 pp.
+<p>14. **Gorman, K.B.** 2015. Integrative studies of Southern Ocean food webs and *Pygoscelis* penguin demography: mechanisms of population response to environmental change. Ph.D. Thesis. Simon Fraser University, Burnaby, British Columbia, Canada. 337 pp.
 
-<p>**Gorman, K.B.**, T.D. Williams, and W.R. Fraser. 2014. Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus *Pygoscelis*). *PLoS ONE* 9(3):e90081. Open access here: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081
+<p>13. **Gorman, K.B.**, T.D. Williams, and W.R. Fraser. 2014. Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus *Pygoscelis*). *PLoS ONE* 9(3):e90081. Open access here: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081
 
-<p>Schofield, O., H. Ducklow, K. Bernard, S. Doney, D. Patterson-Fraser, **K. Gorman**, D. Martinson, M. Meredith, G. Saba, S. Stammerjohn, D. Steinberg, and W. Fraser. 2013. Penguin biogeography along the West Antarctic Peninsula: Testing the canyon hypothesis with Palmer LTER observations. *Oceanography* 26(3):78-80. Open access here: https://tos.org/oceanography/article/penguin-biogeography-along-the-west-antarctic-peninsula-testing-the-canyon- 
+<p>12. Schofield, O., H. Ducklow, K. Bernard, S. Doney, D. Patterson-Fraser, **K. Gorman**, D. Martinson, M. Meredith, G. Saba, S. Stammerjohn, D. Steinberg, and W. Fraser. 2013. Penguin biogeography along the West Antarctic Peninsula: Testing the canyon hypothesis with Palmer LTER observations. *Oceanography* 26(3):78-80. Open access here: https://tos.org/oceanography/article/penguin-biogeography-along-the-west-antarctic-peninsula-testing-the-canyon- 
 
-<p>Crossin, G.T., P.N. Trathan, R.A. Phillips, **K.B. Gorman**, A. Dawson, K.Q. Sakamoto, and T.D. Williams. 2012. Corticosterone predicts foraging behavior and parental care in macaroni penguins. *The American Naturalist* 180(1):E31-E41. Open access here: https://www.journals.uchicago.edu/doi/10.1086/666001 
+<p>11. Crossin, G.T., P.N. Trathan, R.A. Phillips, **K.B. Gorman**, A. Dawson, K.Q. Sakamoto, and T.D. Williams. 2012. Corticosterone predicts foraging behavior and parental care in macaroni penguins. *The American Naturalist* 180(1):E31-E41. Open access here: https://www.journals.uchicago.edu/doi/10.1086/666001 
 
-<p>Crossin, G.T., A. Dawson, R.A. Phillips, P.N. Trathan, **K.B. Gorman**, S. Adlard, and T.D. Williams. 2012. Seasonal patterns of prolactin and corticosterone secretion in an Antarctic seabird that moults during reproduction. *General and Comparative Endocrinology* 175(1):74-81.
+<p>10. Crossin, G.T., A. Dawson, R.A. Phillips, P.N. Trathan, **K.B. Gorman**, S. Adlard, and T.D. Williams. 2012. Seasonal patterns of prolactin and corticosterone secretion in an Antarctic seabird that moults during reproduction. *General and Comparative Endocrinology* 175(1):74-81.
 
-<p>Bestelmeyer, B.T., A.M. Ellison, W.R. Fraser, **K.B. Gorman**, S.J. Holbrook, C.M. Laney, M.D. Ohman, D.P.C. Peters, F.C. Pillsbury, A. Rassweiler, R. Schmitt, and S. Sharma. 2011. Analysis of abrupt transitions in ecological systems. *Ecosphere* 2(12):art129. Open access here: https://esajournals.onlinelibrary.wiley.com/doi/10.1890/ES11-00216.1 
+<p>9. Bestelmeyer, B.T., A.M. Ellison, W.R. Fraser, **K.B. Gorman**, S.J. Holbrook, C.M. Laney, M.D. Ohman, D.P.C. Peters, F.C. Pillsbury, A. Rassweiler, R. Schmitt, and S. Sharma. 2011. Analysis of abrupt transitions in ecological systems. *Ecosphere* 2(12):art129. Open access here: https://esajournals.onlinelibrary.wiley.com/doi/10.1890/ES11-00216.1 
 
-<p>**Gorman, K.B.**, E.S. Erdmann, B.C. Pickering, P.J. Horne, J.R. Blum, H.M. Lucas, D.L. Patterson-Fraser, and W.R. Fraser. 2010. A new high latitude record for the macaroni penguin (*Eudyptes chrysolophus*) at Avian Island, Antarctica. *Polar Biology* 33(8):1155-1158.
+<p>8. **Gorman, K.B.**, E.S. Erdmann, B.C. Pickering, P.J. Horne, J.R. Blum, H.M. Lucas, D.L. Patterson-Fraser, and W.R. Fraser. 2010. A new high latitude record for the macaroni penguin (*Eudyptes chrysolophus*) at Avian Island, Antarctica. *Polar Biology* 33(8):1155-1158.
 
-<p>Hipfner, J.M., **K.B. Gorman**, R.A. Vos, and J.B. Joy. 2010. Evolution of embryonic developmental period in the marine bird families Alcidae and Spheniscidae: roles for nutrition and predation? *BMC Evolutionary Biology* 10:179. Open access here: https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-179 
+<p>7. Hipfner, J.M., **K.B. Gorman**, R.A. Vos, and J.B. Joy. 2010. Evolution of embryonic developmental period in the marine bird families Alcidae and Spheniscidae: roles for nutrition and predation? *BMC Evolutionary Biology* 10:179. Open access here: https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-10-179 
 
-<p>Badzinski, S.A., P.L. Flint, **K.B. Gorman**, and S.S. Petrie. 2009. Relationships between hepatic trace element concentrations, reproductive status, and body condition of female greater scaup. *Environmental Pollution* 157(6):1886-1893.
+<p>6. Badzinski, S.A., P.L. Flint, **K.B. Gorman**, and S.S. Petrie. 2009. Relationships between hepatic trace element concentrations, reproductive status, and body condition of female greater scaup. *Environmental Pollution* 157(6):1886-1893.
 
-<p>**Gorman, K.B.**, D. Esler, R.L. Walzem, and T.D. Williams. 2009. Plasma yolk precursor dynamics during egg production by female Greater Scaup (*Aythya marila*): characterization and indices of reproductive state. *Physiological and Biochemical Zoology* 82(4):372-381.
+<p>5. **Gorman, K.B.**, D. Esler, R.L. Walzem, and T.D. Williams. 2009. Plasma yolk precursor dynamics during egg production by female Greater Scaup (*Aythya marila*): characterization and indices of reproductive state. *Physiological and Biochemical Zoology* 82(4):372-381.
 
-<p>**Gorman, K.B.**, D. Esler, P.L. Flint, and T.D. Williams. 2008. Nutrient reserve dynamics during egg production by female Greater Scaup (*Aythya marila*): relationships with timing of reproduction. *Auk* 125(2):384-394.
+<p>4. **Gorman, K.B.**, D. Esler, P.L. Flint, and T.D. Williams. 2008. Nutrient reserve dynamics during egg production by female Greater Scaup (*Aythya marila*): relationships with timing of reproduction. *Auk* 125(2):384-394.
 
-<p>**Gorman, K.B.**, P.L. Flint, D. Esler, and T.D. Williams. 2007. Ovarian follicle dynamics of female Greater Scaup during egg production. *Journal of Field Ornithology* 78(1):64-73.
+<p>3. **Gorman, K.B.**, P.L. Flint, D. Esler, and T.D. Williams. 2007. Ovarian follicle dynamics of female Greater Scaup during egg production. *Journal of Field Ornithology* 78(1):64-73.
 
-<p>**Gorman, K.B.** and T.D. Williams. 2005. Correlated evolution of maternally derived yolk testosterone and early developmental traits in passerine birds. *Biology Letters* 1(4):461-464.  
+<p>2. **Gorman, K.B.** and T.D. Williams. 2005. Correlated evolution of maternally derived yolk testosterone and early developmental traits in passerine birds. *Biology Letters* 1(4):461-464.  
 
-<p>**Gorman, K.B.** 2005. Reproductive energetics of female Greater Scaup (*Aythya marila*): nutritional and physiological correlates of timing and state of reproduction. M.Sc. Thesis. Simon Fraser University, Burnaby, British Columbia, Canada. 115 pp.
+<p>1. **Gorman, K.B.** 2005. Reproductive energetics of female Greater Scaup (*Aythya marila*): nutritional and physiological correlates of timing and state of reproduction. M.Sc. Thesis. Simon Fraser University, Burnaby, British Columbia, Canada. 115 pp.
 
 <HR>
 <font size="3"><b><i>Data Products</b></i></font>
