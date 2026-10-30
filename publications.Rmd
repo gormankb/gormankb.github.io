@@ -6,7 +6,7 @@ title: "Publications"
 <p>&nbsp;</p>
 
 <font size="3"><b><i>Peer-Reviewed Publications, R Packages, and Theses</b></i></font>
-<p>30. <u>Host, A.L.</u>, **K.B. Gorman**, C. Cusick, L. Horstmann, and P.S. Rand. In prep. Escapement quality of sockeye salmon returning to a glacially dominated watershed: relationships between body size, somatic energy, reproductive investment, and migratory difficulty. *Canadian Journal of Fisheries and Aquatic Sciences*.
+<p>30. <u>Host, A.L.</u>, **K.B. Gorman**, C. Cusick, L. Horstmann, and P.S. Rand. In review. Fitness-associated traits of Sockeye Salmon returning to a glacial river. *Marine and Coastal Fisheries*.
 
 <p>29. <u>McMahon, J.</u>, S.A. May, P.S. Rand, **K.B. Gorman**, M.V. McPhee, P.A.H. Westley. 2025. Assortative dispersal and differences in fitness-associated traits between hatchery and wild pink salmon (*Oncorhynchus gorbuscha*) in Prince William Sound, Alaska. *Ecology and Evolution* 15:e70781. Open access here: https://onlinelibrary.wiley.com/doi/10.1002/ece3.70781
 
@@ -118,4 +118,4 @@ title: "Publications"
 <p>Knudsen, E., M. Buckhorn, **K. Gorman**, D. Crowther, K. Froning, M. Roberts, L. Marcello, B. Adams, V. O’Connell, and D. Bernard. 2015. *Interactions of Wild and Hatchery Pink Salmon and Chum Salmon in Prince William Sound and Southeast, Alaska*. Prince William Sound Science Center Final Report 2013 to Alaska Department of Fish & Game, Contract IHP-13-013.
 
 <HR>
-Updated 1 Oct 2024
+Updated Sept 2026
